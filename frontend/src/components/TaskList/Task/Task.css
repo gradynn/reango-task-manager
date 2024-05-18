@@ -1,0 +1,21 @@
+.TaskWrapper {
+    border-radius: 1rem;
+    margin: 1rem;
+    padding: 1rem;
+    background-color: lightgrey;
+    text-align: center;
+}
+
+.Selected {
+    border: 1px solid red;
+}
+
+td {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+th {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
